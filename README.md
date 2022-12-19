@@ -1,13 +1,14 @@
 # SciCat
 
 Files for running SciCat with docker-compose.
+Fork from  SciCatProject/scicatlive 
 
 
 ## Steps
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/SciCatProject/scicatlive.git
+   git clone https://github.com/keale/scicatlive.git
    ```
 2. Run with the following command inside the directory
    ```sh
